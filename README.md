@@ -1,2 +1,2 @@
 # cvpr
-Course : computer vision and pattern recognition
+Course : Computer Vision and Pattern Recognition
